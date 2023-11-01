@@ -1,16 +1,17 @@
-### Hi there 👋
+### About Me
 
-<!--
-**NukingDragons/NukingDragons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Professional shitposter with the buff™️
+- Currently working on my KLCP so I can be a real hacker someday :<
 
-Here are some ideas to get you started:
+### [Certificates](https://www.credential.net/profile/nukingdragons/wallet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Abbreviated | Full Name | Obtained |
+| - | - | - |
+| OSCP | Offensive Security Certified Professional | November 3rd, 2022 |
+| OSEP | Offensive Security Experienced Penetration Tester | March 28th, 2023 |
+| OSED | Offensive Security Exploit Developer | April 5th, 2023 |
+| OSWP | Offensive Security Wireless Professional | April 28th, 2023 |
+| OSWA | Offensive Security Web Assessor | July 24th, 2023 |
+| OSWE | Offensive Security Web Expert | September 5th, 2023 |
+| OSCE$`^3`$ | Offensive Security Certified Expert 3 | September 9th, 2023 |
+| KLCP | Kali Linux Certified Professional | Maybe someday :sob: |
