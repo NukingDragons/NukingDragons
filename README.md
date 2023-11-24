@@ -56,8 +56,8 @@
   </tr>
   <tr>
     <td>OSMR <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87867205" width="50" align="middle" /></td>
-	<td>Offensive Security Certified Expert 3</td>
-    <td>September 9th, 2023</td>
+	<td>Offensive Security macOS Researcher</td>
+    <td>November 21st, 2023</td>
     <td><a href="https://www.credential.net/356debe9-7c19-41b1-a2e6-fa20da961e6d#gs.0tqj6i">Link</a></td>
   </tr>
   <tr>
