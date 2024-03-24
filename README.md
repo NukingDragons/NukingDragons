@@ -5,8 +5,8 @@
 
 ### Certificates
 
-[credential.net](https://www.credential.net/profile/nukingdragons/wallet)
-[credly.com](https://www.credly.com/users/sabrina-andersen/badges)
+- [credential.net](https://www.credential.net/profile/nukingdragons/wallet)
+- [credly.com](https://www.credly.com/users/sabrina-andersen/badges)
 
 <table>
   <tr>
@@ -62,6 +62,12 @@
 	<td>Offensive Security macOS Researcher</td>
     <td>November 21st, 2023</td>
     <td><a href="https://www.credential.net/356debe9-7c19-41b1-a2e6-fa20da961e6d#gs.0tqj6i">Link</a></td>
+  </tr>
+  <tr>
+    <td>RTAC <img src="images/RTAC.png" width="50" align="middle" /></td>
+	<td>k>fivefour Red Team Apprentice Certified</td>
+    <td>March 23rd, 2024</td>
+    <td><a href="https://www.credly.com/earner/earned/badge/d8d7bc32-4d47-4f77-a02b-b0012b9decc6">Link</a></td>
   </tr>
   <tr>
     <td>KLCP</td>
