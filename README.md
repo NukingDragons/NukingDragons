@@ -67,7 +67,7 @@
     <td>RTAC <img src="images/RTAC.png" width="50" align="middle" /></td>
 	<td>k>fivefour Red Team Apprentice Certified</td>
     <td>March 23rd, 2024</td>
-    <td><a href="https://www.credly.com/earner/earned/badge/d8d7bc32-4d47-4f77-a02b-b0012b9decc6/public_url">Link</a></td>
+    <td><a href="https://www.credly.com/badges/d8d7bc32-4d47-4f77-a02b-b0012b9decc6/public_url">Link</a></td>
   </tr>
   <tr>
     <td>KLCP</td>
