@@ -96,7 +96,7 @@
   </tr>
 -->
   <tr>
-    <td></td>
+    <td><img src="images/KLCP.png" width="50" align="left" /></td>
     <td>KLCP</td>
     <td>Kali Linux Certified Professional </td>
     <td>Maybe someday 😭</td>
