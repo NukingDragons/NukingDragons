@@ -79,14 +79,14 @@
     <td>March 23rd, 2024</td>
     <td><a href="https://www.credly.com/badges/d8d7bc32-4d47-4f77-a02b-b0012b9decc6/public_url">Link</a></td>
   </tr>
-<!--
   <tr>
     <td><img src="images/RTJC.png" width="50" align="left" /></td>
     <td>RTJC</td>
     <td>k>fivefour Red Team Journeyman Certified</td>
-    <td>Pending</td>
+    <td>March 17th, 2025</td>
     <td></td>
   </tr>
+<!--
   <tr>
     <td><img src="images/OSEE.png" width="50" align="left" /></td>
     <td>OSEE</td>
