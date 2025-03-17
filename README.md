@@ -84,7 +84,7 @@
     <td>RTJC</td>
     <td>k>fivefour Red Team Journeyman Certified</td>
     <td>March 17th, 2025</td>
-    <td></td>
+    <td><a href="https://www.credly.com/badges/beed3bff-7208-45db-b97a-7e7da8f7e051/public_url">Link</a></td>
   </tr>
 <!--
   <tr>
